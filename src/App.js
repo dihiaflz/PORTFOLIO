@@ -14,6 +14,10 @@ import gmail from"./Assets/Gmail.svg"
 
 function App() {
 
+  useEffect(() => {
+    document.title = 'PORTFOLIO';
+  }, []);
+
   const certificates = [
     {id: 0, image: certificate, link: "https://coursera.org/share/8680bdda93a81ca21ba161d3805ecf7a"}
   ]
