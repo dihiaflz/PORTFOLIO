@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import './App.css';
 import Square from "./Assets/square-bleu.svg"
 import Github from "./Assets/heheeee.svg"
-import Linkedin from "./Assets/hivcfhvf.svg"
+import Linkedin from "./Assets/final.svg"
 import image from "./Assets/photo.svg" 
 import certificate from "./Assets/Coursera-Certificate.png"
 import before from "./Assets/before.svg"
