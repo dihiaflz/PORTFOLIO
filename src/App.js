@@ -2,9 +2,9 @@ import React from 'react';
 import { useState, useEffect } from 'react';
 import './App.css';
 import Square from "./Assets/square-bleu.svg"
-import Github from "./Assets/github-bleu.svg"
-import Linkedin from "./Assets/linkedin-bleu.svg"
-import image from "./Assets/image.svg" 
+import Github from "./Assets/heheeee.svg"
+import Linkedin from "./Assets/hivcfhvf.svg"
+import image from "./Assets/photo.svg" 
 import certificate from "./Assets/Coursera-Certificate.png"
 import before from "./Assets/before.svg"
 import after from "./Assets/after.svg"
@@ -83,6 +83,8 @@ function App() {
       <div className={`nav-bar ${isScrolled ? 'scrolled' : 'begin'}`}>
 
         <div className='social-media'>
+          
+          
           <a href='https://github.com/dihiaflz'><img className='github' alt='hithub' src={Github}></img></a>
           <a href='https://www.linkedin.com/in/dihia-falouz/'><img className='linkedin' alt='linkedin' src={Linkedin}></img></a>
         </div>
@@ -90,25 +92,25 @@ function App() {
         <div className='titles'>
           <a href="#about-section">
             <div className='item'>
-              <img className='square' alt='square' src={Square}></img>
+              {/*<img className='square' alt='square' src={Square}></img>*/}
               <p>About</p>
             </div>
           </a>
           <a href="#certificates-section">
             <div className='item'>
-              <img className='square' alt='square' src={Square}></img>
+              {/*<img className='square' alt='square' src={Square}></img>*/}
               <p>Certificates</p>
             </div>
           </a>
           <a href="#projects-section">
             <div className='item'>
-              <img className='square' alt='square' src={Square}></img>
+              {/*<img className='square' alt='square' src={Square}></img>*/}
               <p>Projects</p>
             </div>
           </a>
           <a href="#contact-section">
             <div className='item'>
-              <img className='square' alt='square' src={Square}></img>
+             {/*<img className='square' alt='square' src={Square}></img>*/}
               <p>Contact</p>
             </div>
           </a>
@@ -118,6 +120,8 @@ function App() {
 
       <div className='first-section'>
         <div className='home'>
+        <img className='image' alt='image' src={image}></img>
+
           <div className='left'>
             <div className='text'>
               <p>Hello 👋 my name is</p>
@@ -135,7 +139,6 @@ function App() {
             
             
           </div>
-          <img className='image' alt='image' src={image}></img>
         </div>
         <div className='about' id='about-section'>
           <h1>About me</h1>
