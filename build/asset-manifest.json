@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e0046a9.css",
+    "main.js": "/static/js/main.f939fdbb.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/photo.svg": "/static/media/photo.ca813370341d0ac9dfa864e5fc6aaa36.svg",
+    "static/media/Coursera-Certificate.png": "/static/media/Coursera-Certificate.c29c94d09cc6f9b6e3d9.png",
+    "static/media/heheeee.svg": "/static/media/heheeee.2689e80d7b4ed0c0171263d642d0b3b6.svg",
+    "static/media/hivcfhvf.svg": "/static/media/hivcfhvf.7c3bb7ac48bc0747835ed615f5499c43.svg",
+    "static/media/before.svg": "/static/media/before.e703719449eef9dce1bfe4d4520b2fcb.svg",
+    "static/media/after.svg": "/static/media/after.9b196ad70c426e319ed93537b15bf0d1.svg",
+    "static/media/Gmail.svg": "/static/media/Gmail.9b11326a0e36c81d0189e8665b7d857d.svg",
+    "index.html": "/index.html",
+    "static/media/square-bleu.svg": "/static/media/square-bleu.3c6941da0b5607b061346ade188c8361.svg",
+    "main.1e0046a9.css.map": "/static/css/main.1e0046a9.css.map",
+    "main.f939fdbb.js.map": "/static/js/main.f939fdbb.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e0046a9.css",
+    "static/js/main.f939fdbb.js"
+  ]
+}
