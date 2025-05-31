@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6c0942d7.css",
-    "main.js": "/static/js/main.b14452a9.js",
+    "main.js": "/static/js/main.9106631c.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/photo.svg": "/static/media/photo.164414dcfef17579f06148cba2f08558.svg",
     "static/media/Coursera-Certificate.png": "/static/media/Coursera-Certificate.c29c94d09cc6f9b6e3d9.png",
@@ -17,11 +17,11 @@
     "static/media/Gmail.svg": "/static/media/Gmail.9b11326a0e36c81d0189e8665b7d857d.svg",
     "index.html": "/index.html",
     "main.6c0942d7.css.map": "/static/css/main.6c0942d7.css.map",
-    "main.b14452a9.js.map": "/static/js/main.b14452a9.js.map",
+    "main.9106631c.js.map": "/static/js/main.9106631c.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c0942d7.css",
-    "static/js/main.b14452a9.js"
+    "static/js/main.9106631c.js"
   ]
 }

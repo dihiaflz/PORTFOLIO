@@ -88,7 +88,7 @@ function App() {
     return () => {
       window.removeEventListener('scroll', handleScroll);
     };
-  }, [certificates, currentIndex]);
+  });
 
   return (
     <div className="App">
