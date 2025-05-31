@@ -1,7 +1,5 @@
-import React from 'react';
 import { useState, useEffect } from 'react';
 import './App.css';
-import Square from "./Assets/square-bleu.svg"
 import Github from "./Assets/heheeee.svg"
 import Linkedin from "./Assets/final.svg"
 import image from "./Assets/photo.svg" 
@@ -90,7 +88,7 @@ function App() {
     return () => {
       window.removeEventListener('scroll', handleScroll);
     };
-  }, []);
+  }, [certificates, currentIndex]);
 
   return (
     <div className="App">
@@ -100,7 +98,7 @@ function App() {
         <div className='social-media'>
           
           
-          <a href='https://github.com/dihiaflz'><img className='github' alt='hithub' src={Github}></img></a>
+          <a href='https://github.com/dihiaflz'><img className='github' alt='github' src={Github}></img></a>
           <a href='https://www.linkedin.com/in/dihia-falouz/'><img className='linkedin' alt='linkedin' src={Linkedin}></img></a>
         </div>
 
@@ -135,7 +133,7 @@ function App() {
 
       <div className='first-section'>
         <div className='home'>
-        <img className='image' alt='image' src={image}></img>
+        <img className='image' alt='imageAlt' src={image}></img>
 
           <div className='left'>
             <div className='text'>
